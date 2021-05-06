@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": []
+	},
+	"settings": {
+		"terminal.integrated.env.linux": {
+        "vsmode": "source ~/.config/fish/vscode.fish && source finalproject/bin/activate.fish && clear"
+	},
+	"python.languageServer": "Pylance",
+ }
+}

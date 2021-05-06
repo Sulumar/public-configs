@@ -1,0 +1,24 @@
+{
+    "terminal.integrated.fontFamily": "'SauceCodePro Nerd Font', 'SauceCodePro Nerd Font'",
+    "terminal.integrated.shell.linux": "/bin/fish",
+    "terminal.integrated.env.linux": {
+        "vsmode": "source ~/.config/fish/vscode.fish"
+    },
+    "workbench.colorTheme": "Solarized Dark",
+    "editor.fontFamily": "'Source Code Pro Nerd Font'",
+    "editor.minimap.enabled": false,
+    "editor.suggest.showStatusBar": true,
+    "git.enableStatusBarSync": false,
+    "terminal.external.linuxExec": "alacritty",
+    "editor.codeLensFontFamily": "'Source Code Pro Nerd Font",
+    "python.languageServer": "Pylance",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "telemetry.enableTelemetry": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}
